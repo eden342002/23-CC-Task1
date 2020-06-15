@@ -35,3 +35,5 @@ To go inside directory where " .tf" file is stored.
   # terraform init 
   # terraform validate
   #terraform apply -auto-approve
+
+Output is being attaches after ruuning this file:-"output.png
